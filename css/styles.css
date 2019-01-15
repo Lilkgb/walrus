@@ -1,3 +1,22 @@
+.green-background {
+  background-color: green;
+  color: white;
+}
+
+.yellow-background {
+  background-color: yellow;
+  color: green;
+}
+
+.red-background {
+  background-color: red;
+  color: yellow;
+}
+
+.white-background {
+  background-color: white;
+}
+
 .walrus-show {
   display: none;
 }
