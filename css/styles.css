@@ -1,0 +1,29 @@
+.walrus-show {
+  display: none;
+}
+
+.clickable{
+  color: blue;
+  cursor: pointer;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.whale-show {
+  display: none;
+}
+
+.whale-hidden {
+  display: none;
+}
+
+.clickable-whale{
+  color: blue;
+  cursor: pointer;
+}
+
+.clickable-whale:hover {
+  text-decoration: underline;
+}
